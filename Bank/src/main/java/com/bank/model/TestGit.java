@@ -5,6 +5,8 @@ public class TestGit {
 	private int age;
 	private String address;
 
+	private String ttttt;
+
 	public String getName() {
 		return name;
 	}
