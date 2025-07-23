@@ -4,6 +4,7 @@ public class TestGit {
 	private String name;
 	private int age;
 	private String address;
+	private String gg;
 	public String getName() {
 		return name;
 	}
